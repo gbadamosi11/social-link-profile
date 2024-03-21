@@ -71,3 +71,8 @@ body{
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
 }
+.link a:hover{
+    color: hsl(0, 0%, 8%);
+    background-color: hsl(75, 94%, 57%);
+    cursor: pointer;
+}
